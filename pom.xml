@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://3.234.226.218:8081/repository/Jenkins_Release/</url>
+	      <url>http://34.238.248.22:8081/repository/Library_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://3.234.226.218:8081/repository/Jenkins_snap/</url>
+	      <url>http://34.238.248.22:8081/repository/Library_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
