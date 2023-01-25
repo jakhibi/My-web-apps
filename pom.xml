@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.84.227.180:9000/</sonar.host.url>
+		<sonar.host.url>http://34.226.197.63:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://34.238.248.22:8081/repository/Library_Release/</url>
+	      <url>http://3.216.95.234:8081/repository/Library_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://34.238.248.22:8081/repository/Library_Snapshot/</url>
+	      <url>http://3.216.95.234:8081/repository/Library_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
