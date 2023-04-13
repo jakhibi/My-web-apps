@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAQ2T2D3EINLDPMQGE"
-  secret_key = "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"
+  access_key = "1"
+  secret_key = "1"
 }
 
 resource "aws_instance" "myEC2_Terraform" {
